@@ -9,4 +9,4 @@ I also didn't really have any problems or issues during this assignment.
 There isn't really anything I learned that I would like to discuss further since most of what I learned is just going to take practice to understand, and learn the material from this week's lessons.
 Finally, I didn't post any problems to the repository, and didn't help any classmates with any.
 
-My [progress](./Part8.png)
+My [progress](./images/Part8.png)
