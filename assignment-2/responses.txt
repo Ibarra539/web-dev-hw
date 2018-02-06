@@ -1,0 +1,18 @@
+The most efficient way that data travels is through a fiber optic network.
+This is efficient because the data travels at the speed of light, and there is
+no signal loss.
+
+The relationship between an IP Address and DNS is that DNS is what takes an IP
+Address, translates that address into its associated website name, and sends
+the user to that IP Address.  DNS is important because it keeps us from needing
+know an exact IP Address, and instead allows us to search for our requested IP
+Address through the associated wording.  So instead of typing in 8.8.8.8 or
+8.8.4.4 to reach Google.com the user can just enter the words, and reach the
+same location.
+
+A cookie is basically an ID card that allows a website to remember who visits
+their site.  This allows the site to remember a user, and associate the ID tag
+with any subsequent requests from the same user so that all the user activity is
+logged to that user ID.
+
+The three basic parts of a URL are protocol, domain, path & file.
