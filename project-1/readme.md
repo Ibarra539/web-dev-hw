@@ -1,4 +1,4 @@
-#Project 1 Read Me
+# Project 1 Read Me
 
 Browsers I use to "surf" the web are Firefox, and Google Chrome.
 These browsers work relatively the same.  The one big difference is that one is controlled by Google while the other is open sourced.  They have back, forward, refresh, home, and bookmarking icons.  They use tabs to view multiple web pages at once.
