@@ -9,4 +9,4 @@ My workcycle for this assignment involved doing the excercises in the weekly les
 I didn't encounter any problems or issues.
 Finally, I have taken a web development course before so I didn't learn anything new.
 
-[Image of my project screenshot](./images/Project-Screenshot.jpg)
+[Image of my project screenshot](./images/project-screenshot.jpg)
