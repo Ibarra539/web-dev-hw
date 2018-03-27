@@ -6,4 +6,4 @@ As for CSS I am excited to begin creating more visually appealing websites.  It 
 
 My work schedule for this project was a little more hectic than normal since I have been playing catch up from my trip to Japan.  Not to mention I interviewed twice over the last couple weeks with a company called PwC, and have been in the final stages of accepting an offer of employment with their Seattle office after graduation.  For these reasons I haven't been able to give this project as much time as I normally would have so I am expecting a lower grade than most of my assignments.  However, I have done my best to fulfill all the project requirements, and am proud of my instructable.
 
-My Progress ![progress](./images/project2.png)
+My Progress ![progress](./images/project2.PNG)
