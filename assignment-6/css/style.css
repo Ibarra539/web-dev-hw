@@ -1,0 +1,23 @@
+
+<style>
+.styled {
+  opacity: 0.80;
+}
+.styled {
+  border: 20px solid #000000;
+  padding: 5px;
+}
+.styled {border:20px solid #000000 !important
+padding:5px
+}
+
+.Photo {
+  width: 300px;
+  border: 300px groove #000000;
+  padding: 5px;
+  margin: 5px;
+}
+
+/* The lesson on CSS didn't make as much sense as previous lessons, but I also haven't been able to take as much time on this lesson as previous ones
+mainly because of recruitment trips that have taken me out of town the last week.  I believe CSS is still my weakest area of web development knowledge,
+but I am starting to learn how to make it all work */
