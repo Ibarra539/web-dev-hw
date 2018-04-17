@@ -4,7 +4,8 @@ For me the 90's has always been defined by the cartoons and video games I experi
 
 The three colors I chose were white, black, and orange (hex codes #FFFFFF, #000000, #F76912) which were heavily associated with cartoons during the 90's because of Nickelodeon's and Cartoon Network's domination of the industry.
 
-My work cycle for this assigment was to look at the assignment requirements, view the assignment example, and view other student's work for inspiration of this assignment.  I have been out of town to Denver & Seattle this last week for recruitment trips with companies offering full time employment after graduation so I haven't been able to spend a lot of time on this assignment.  Once getting some inspiration I went on to complete the assignment, and create a sort of tribute page to 90's cartoons with a look at current cartoons that are caring on their tradition of greatness.
+My work cycle for this assigment was to look at the assignment requirements, view the assignment example, and view other student's work for inspiration for this assignment.  I have been out of town to Denver & Seattle this last week for recruitment trips with companies offering full time employment after graduation so I haven't been able to spend a lot of time on this assignment.  Once getting some inspiration I went on to complete the assignment, and create a sort of tribute page to 90's cartoons with a look at current cartoons that are caring on their tradition of greatness.
+
 
 
 My Progress ![progress](./images/Assignment-6.png)
