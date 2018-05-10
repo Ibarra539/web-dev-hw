@@ -1,7 +1,7 @@
 body {
   background-color: Black;
   text-align: left;
-  margin: auto;
+  display: block;
   width: 800px;
 
 }
