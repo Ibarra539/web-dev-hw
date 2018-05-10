@@ -6,4 +6,4 @@ System fonts are the fonts already pre-installed on a computer.  Web fonts are c
 
 I have been extremely busy with my final classes before graduation so my work process consisted of sitting down and doing this whole assignment in one sitting.
 
-My Progress ![progress](./images/Assignment-7.png)
+My Progress ![progress](./images/assignment-7.png)
