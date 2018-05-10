@@ -1,0 +1,60 @@
+body {
+  background-color: Black;
+  text-align: left;
+  display: block;
+  margin: auto;
+  width: 800px;
+
+}
+
+h1 {
+color: #FFFFFF;
+font-family:'Righteous', cursive;
+font-size: 50pt;
+}
+
+
+.content {
+  background-color: black;
+  font-family:'Roboto', sans-serif;
+  font-size: 15pt;
+  color: white;
+  padding: 24px;
+}
+
+.button {
+  font-family: 'Roboto' , sans-serif;
+  display: block;
+  margin: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  width: 400px;
+  background-color: #000000;
+  height: 240px;
+}
+
+a:link {
+  color:inherit;
+  text-decoration: none;
+}
+
+a:hover {
+  color:Green;
+  text-decoration:none;
+  font-weight:bold;
+}
+
+a:active {
+  color:Blue;
+  text-decoration:underline;
+  font-weight:bold;
+}
+a:visited {
+      color:red;
+      text-decoration:none;
+}
+li {
+  margin: auto;
+  text-align: left;
+  padding: 20px;
+}
