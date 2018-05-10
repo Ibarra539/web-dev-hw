@@ -1,0 +1,46 @@
+body {
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 12px;
+}
+
+h1{
+  background-color:#303F44;
+  color:#FDFDF1;
+  font-size:30px;
+  line-height: 50px;
+}
+h2{
+  font-family:'Comic Sans MS', 'Comic Sans', Trebuchet, Verdana, sans-serif;
+  color:#ED1701;
+  font-style:italic ;
+  font-weight:bold;
+  font-size:30px;
+
+}
+.banner{
+  position: absolute;
+  left:210px;
+  top:10px;
+  font-family: 'Comic Sans MS', 'Comic Sans', Trebuchet MS, Verdana, sans-serif;
+  color:#303F44;
+  font-style:italic ;
+  font-weight:bold;
+  font-size:30px;
+  font-kerning: none;
+  line-height: 8px;
+
+}
+
+.right-top{
+  font-size:10px;
+  text-align:center;
+  line-height: 8px;
+
+}
+
+.right-lower{
+
+  font-size:10px;
+  text-align:left;
+
+}
