@@ -1,10 +1,8 @@
-
 .main-container {
    width:469px;
    height:1024px;
-   background-color: #FDFDF1;
+   background-color: #FFFFFF;
    padding:1em;
-
 }
 
 .woman span{
@@ -13,16 +11,15 @@
   top:55px;
   text-align:left;
   font-size:10px;
-  color:#303F44;
-
+  color:#314147;
 }
 
-.kids{
+.living-room{
   position:absolute;
   top:430px;
 }
 
-.filterq{
+.queen{
   position:absolute;
   top: 740px;
   left:0px;
@@ -34,43 +31,38 @@
   left:175px;
 }
 
-.guar{
+.guarantee{
   position:absolute;
   top:825px;
   left:425px;
 }
-.banner{
 
-}
-.top-right-box{
+.right-top{
   position:absolute;
   height:300px;
   width:235px;
   left:265px;
   top:110px;
-
-
-
 }
-.middle-right-box{
+
+.right-middle{
   position:absolute;
   height:200px;
   width:235px;
   left:260px;
   top:540px;
-
 }
-.middle-left-box{
+
+.left-middle{
   position:absolute;
   height:200px;
   width:235px;
   left:5px;
   top:640px;
   padding-left:1em;
-
 }
 
-.lower-left-box{
+.left-lower{
   position:absolute;
   height:165px;
   width:235px;
@@ -78,11 +70,10 @@
   top:930px;
   padding-left:1em;
   padding-bottom:1em;
-
-
 }
-.lower-right-box{
-  background-color:#FDFDF1;
+
+.right-lower{
+  background-color:#FFFFFF;
   position:absolute;
   height:165px;
   width:235px;
@@ -90,6 +81,4 @@
   top:-60px;
   border-style:dashed;
   padding-bottom: 1em;
-
-
 }
